@@ -1,0 +1,26 @@
+{
+  "name": "es6-build-kit",
+  "version": "0.0.1",
+  "description": "Build system scaffolding for bundling JS for delivery in a webapge.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/BenningtonCS/es6-build-kit.git"
+  },
+  "author": "Anselm Bradford",
+  "license": "MIT",
+  "devDependencies": {
+    "babel": "6.23.0",
+    "babel-eslint": "7.1.1",
+    "babel-loader": "7.0.0",
+    "babel-preset-env": "1.4.0",
+    "gulp": "^3.9.1",
+    "gulp-babel": "6.1.2",
+    "gulp-clean": "^0.3.2",
+    "gulp-eslint": "3.0.1",
+    "gulp-open": "^2.0.0",
+    "gulp-plumber": "1.0.0",
+    "run-sequence": "^1.2.2",
+    "webpack": "^2.4.1",
+    "webpack-stream": "^3.2.0"
+  }
+}
